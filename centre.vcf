@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 12.1.2//EN
-N:Meher;Souna;;;  
-FN: Souna  Meher 
+N:Collagène;Colpropur;;;  
+FN: Colpropur  Collagene 
 ORG:Protein SA;
 TITLE:Responsable secteur, formateur - Centre
-EMAIL;type=INTERNET;type=WORK;type=pref:idfnord@proteinsa.com
+EMAIL;type=INTERNET;type=WORK;type=pref:centre@proteinsa.com
 TEL;type=WORK;type=VOICE;type=pref:09 80 93 49 57
 TEL;type=CELL;type=VOICE:07 61 66 45 94
 item1.ADR;type=WORK;type=pref:;;333 boulevard Wilson\nBORDEAUX\;;33200;;France
